@@ -11,7 +11,7 @@
            fetch="git://github.com/" />
 
   <project path="abi/cpp" name="platform/abi/cpp" />
-  <project path="dalvik" name="platform/dalvik" />
+  <project path="dalvik" name="CyanogenMod/android_dalvik" remote="github" revision="ics" />
   <project path="development" name="platform/development" />
   <project path="device/common" name="device/common" />
   <project path="device/sample" name="device/sample" />
