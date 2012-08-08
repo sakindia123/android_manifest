@@ -201,7 +201,7 @@
   <project path="external/skia" name="oxygen-rom-ics/android_external_skia" revision="ics" remote="github" />
   <project path="frameworks/base" name="oxygen-rom-ics/android_frameworks_base" revision="ics" remote="github" />
   <project path="frameworks/compile/slang" name="oxygen-rom-ics/android_frameworks_compile_slang" revision="ics" remote="github" />
-  <project path="hardware/libhardware" name="oxygen-rom-ics/android_hardware_libhardware" revision="ics" remote="github" />
+  <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" revision="ics" remote="github" />
   <project path="packages/apps/Browser" name="oxygen-rom-ics/android_packages_apps_browser" revision="ics" remote="github" />
   <project path="packages/apps/Bluetooth" name="oxygen-rom-ics/android_packages_apps_bluetooth" revision="ics" remote="github" />
   <project path="packages/apps/Camera" name="oxygen-rom-ics/android_packages_apps_camera" revision="ics" remote="github" />
