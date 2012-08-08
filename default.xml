@@ -215,6 +215,10 @@
   <project path="vendor/lge" name="popdog123/android_vendor_lge" revision="ics" remote="github" />
   <project path="vendor/google" name="oxygen-rom-ics/android_vendor_google" revision="ics" remote="github" />
   <project path="vendor/oxygen" name="popdog123/android_vendor_oxygen" revision="ics" remote="github" />
+  <project path="vendor/qcom/opensource/omx/mm-audio" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-audio" />
+  <project path="vendor/qcom/opensource/omx/mm-core" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-core" />
+  <project path="vendor/qcom/opensource/omx/mm-video" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-video" />
+  <project path="vendor/qcom/opensource/v8" name="CyanogenMod/android_vendor_qcom_opensource_v8" />
 
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" revision="ics" remote="github" />
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" revision="ics" remote="github" />
