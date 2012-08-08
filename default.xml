@@ -212,17 +212,15 @@
   <project path="system/core" name="oxygen-rom-ics/android_system_core" revision="ics" remote="github" />
   <project path="system/media" name="oxygen-rom-ics/android_system_media" revision="ics" remote="github" />
   <project path="system/vold" name="oxygen-rom-ics/android_system_vold" revision="ics" remote="github" />
-  <project path="vendor" name="oxygen-rom-ics/android_vendor" revision="ics" remote="github" />
+  <project path="vendor/lge" name="popdog123/android_vendor_lge" revision="ics" remote="github" />
   <project path="vendor/google" name="oxygen-rom-ics/android_vendor_google" revision="ics" remote="github" />
-  <project path="vendor/oxygen" name="oxygen-rom-ics/android_vendor_oxygen" revision="ics" remote="github" />
+  <project path="vendor/oxygen" name="popdog123/android_vendor_oxygen" revision="ics" remote="github" />
 
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" revision="ics" remote="github" />
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" revision="ics" remote="github" />
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" revision="ics" remote="github" />
   <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" revision="ics" remote="github" />
-  <project path="kernel/samsung/smdk4210" name="CyanogenMod/android_kernel_samsung_smdk4210" revision="ics" remote="github" />
-  <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" revision="ics" remote="github" />
-  <project path="packages/apps/Torch" name="CyanogenMod/android_packages_apps_Torch" revision="ics" remote="github" />
+  <project path="kernel/lge/msm7x27" name="lgics/lge-kernel-msm7x27" revision="ics" remote="github" />
 
   <project path="packages/apps/Superuser" name="ChainsDD/Superuser" revision="dev" remote="github" />
   <project path="system/extras/su" name="ChainsDD/su-binary" revision="gc-ics" remote="github" />
