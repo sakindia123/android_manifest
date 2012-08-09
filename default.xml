@@ -199,7 +199,7 @@
   <project path="bionic" name="oxygen-rom-ics/android_bionic" revision="ics" remote="github" />
   <project path="device/lge/p500" name="popdog123/android_device_lge_p500" revision="ics" remote="github" />
   <project path="external/skia" name="oxygen-rom-ics/android_external_skia" revision="ics" remote="github" />
-  <project path="frameworks/base" name="oxygen-rom-ics/android_frameworks_base" revision="ics" remote="github" />
+  <project path="frameworks/base" name="popdog123/android_frameworks_base" revision="ics" remote="github" />
   <project path="frameworks/compile/slang" name="oxygen-rom-ics/android_frameworks_compile_slang" revision="ics" remote="github" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" revision="ics" remote="github" />
   <project path="packages/apps/Browser" name="oxygen-rom-ics/android_packages_apps_browser" revision="ics" remote="github" />
