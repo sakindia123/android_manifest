@@ -228,7 +228,7 @@
   <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" revision="ics" remote="github" />
   <project path="kernel/lge/msm7x27" name="lgics/lge-kernel-msm7x27" revision="ics" remote="github" />
 
-  <project path="packages/apps/Superuser" name="ChainsDD/Superuser" revision="master" remote="github" />
+  <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" revision="ics" remote="github" />
   <project path="system/extras/su" name="ChainsDD/su-binary" revision="gc-ics" remote="github" />
 
 </manifest>
