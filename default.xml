@@ -211,7 +211,7 @@
   <project path="packages/apps/Settings" name="oxygen-rom-ics/android_packages_apps_settings" revision="ics" remote="github" />
   <project path="packages/providers/ContactsProvider" name="oxygen-rom-ics/android_packages_providers_contactsprovider" revision="ics" remote="github" />
   <project path="packages/providers/DownloadProvider" name="oxygen-rom-ics/android_packages_providers_downloadprovider" revision="ics" remote="github" />
-  <project path="system/core" name="oxygen-rom-ics/android_system_core" revision="ics" remote="github" />
+  <project path="system/core" name="popdog123/android_system_core" revision="ics" remote="github" />
   <project path="system/media" name="oxygen-rom-ics/android_system_media" revision="ics" remote="github" />
   <project path="system/vold" name="oxygen-rom-ics/android_system_vold" revision="ics" remote="github" />
   <project path="vendor/lge" name="popdog123/android_vendor_lge" revision="ics" remote="github" />
