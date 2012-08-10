@@ -215,7 +215,7 @@
   <project path="system/media" name="oxygen-rom-ics/android_system_media" revision="ics" remote="github" />
   <project path="system/vold" name="oxygen-rom-ics/android_system_vold" revision="ics" remote="github" />
   <project path="vendor/lge" name="popdog123/android_vendor_lge" revision="ics" remote="github" />
-  <project path="vendor/google" name="oxygen-rom-ics/android_vendor_google" revision="ics" remote="github" />
+  <project path="vendor/google" name="popdog123/android_vendor_google" revision="ics" remote="github" />
   <project path="vendor/oxygen" name="popdog123/android_vendor_oxygen" revision="ics" remote="github" />
   <project path="vendor/qcom/opensource/omx/mm-audio" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-audio" remote="github" revision="ics" />
   <project path="vendor/qcom/opensource/omx/mm-core" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-core" remote="github" revision="ics" />
