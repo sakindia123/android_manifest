@@ -191,7 +191,7 @@
   <project path="sdk" name="platform/sdk" />
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" remote="github" revision="ics" />
   <project path="system/extras" name="platform/system/extras" />
-  <project path="system/netd" name="platform/system/netd" />
+  <project path="system/netd" name="CyanogenMod/android_system_netd" remote="github" revision="ics" />
 
   <project path="build" name="popdog123/android_build" revision="ics" remote="github">
     <copyfile src="core/root.mk" dest="Makefile" />
