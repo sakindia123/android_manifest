@@ -196,7 +196,7 @@
   <project path="build" name="popdog123/android_build" revision="ics" remote="github">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="bionic" name="oxygen-rom-ics/android_bionic" revision="ics" remote="github" />
+  <project path="bionic" name="CyanogenMod/android_bionic" revision="ics" remote="github" />
   <project path="device/lge/p500" name="popdog123/android_device_lge_p500" revision="ics" remote="github" />
   <project path="external/skia" name="oxygen-rom-ics/android_external_skia" revision="ics" remote="github" />
   <project path="frameworks/base" name="popdog123/android_frameworks_base" revision="ics" remote="github" />
