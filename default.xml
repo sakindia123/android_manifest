@@ -209,7 +209,6 @@
   <project path="packages/apps/Mms" name="oxygen-rom-ics/android_packages_apps_mms" revision="ics" remote="github" />
   <project path="packages/apps/Phone" name="popdog123/android_packages_apps_phone" revision="ics" remote="github" />
   <project path="packages/apps/Settings" name="popdog123/android_packages_apps_settings" revision="ics" remote="github" />
-  <project path="packages/apps/OTAUpdater" name="popdog123/ota-update-centre" revision="master" remote="github" />
   <project path="packages/providers/ContactsProvider" name="oxygen-rom-ics/android_packages_providers_contactsprovider" revision="ics" remote="github" />
   <project path="packages/providers/DownloadProvider" name="oxygen-rom-ics/android_packages_providers_downloadprovider" revision="ics" remote="github" />
   <project path="system/core" name="popdog123/android_system_core" revision="ics" remote="github" />
