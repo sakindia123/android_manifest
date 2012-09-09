@@ -304,7 +304,7 @@
   <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" revision="ics" remote="github" />
   <project path="system/extras/su" name="ChainsDD/su-binary" revision="gc-ics" remote="github" />
   <project path="vendor/google" name="popdog123/android_vendor_google" revision="jellybean" remote="github" />
-  <project path="vendor/oxygen" name="popdog123/android_vendor_oxygen" revision="jellybean" remote="github" />
+  <project path="vendor/common" name="popdog123/android_vendor_common" revision="jellybean" remote="github" />
 
 
 </manifest>
