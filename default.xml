@@ -306,6 +306,7 @@
   <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" revision="ics" remote="github" />
   <project path="vendor/google" name="cerebrum-android/android_vendor_google" revision="jellybean" remote="github" />
   <project path="vendor/cerebrum" name="cerebrum-android/android_vendor_cerebrum" revision="jellybean" remote="github" />
+  <project path="external/busybox" name="CyanogenMod/android_external_busybox" revision="jellybean" remote="github" />
 
 
 </manifest>
