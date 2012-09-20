@@ -305,7 +305,7 @@
   <project path="vendor/qcom/opensource/v8" name="CyanogenMod/android_vendor_qcom_opensource_v8" remote="github" revision="ics" />
   <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" revision="ics" remote="github" />
   <project path="vendor/google" name="cerebrum-android/android_vendor_google" revision="jellybean" remote="github" />
-  <project path="vendor/cerebrum" name="cerebrum-android/android_vendor_common" revision="jellybean" remote="github" />
+  <project path="vendor/cerebrum" name="cerebrum-android/android_vendor_cerebrum" revision="jellybean" remote="github" />
 
 
 </manifest>
