@@ -296,6 +296,7 @@
   <project path="system/security" name="platform/system/security" />
   <project path="system/su" name="CyanogenMod/android_system_su" remote="github" revision="jellybean" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" revision="jellybean" remote="github" />
+  <project path="device/htc/pico" name="sakindia123/cerebrum_device_htc_pico_jb" remote="github" revision="master" />
   <project path="kernel/htc/pico" name="sakindia123/htc_pico_kernel" remote="github" revision="ics" />
   <project path="vendor/htc/pico" name="sakindia123/ics-vendor-pico" remote="github" revision="master" />
   <project path="vendor/qcom/opensource/omx/mm-audio" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-audio" remote="github" revision="ics" />
